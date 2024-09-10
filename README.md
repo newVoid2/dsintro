@@ -1,1 +1,2 @@
-# dsintro
+# DSintro
+Tools for Data Science
